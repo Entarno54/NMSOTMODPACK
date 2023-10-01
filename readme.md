@@ -24,5 +24,5 @@
 
 - simple design
 - fast and full automatic downloading
-- customisable interface
+- customizable interface
 - offical product
