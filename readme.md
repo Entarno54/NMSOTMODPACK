@@ -17,7 +17,7 @@
 <div align="center">
 <i>Download section</i> <img src="src/dwnld.png", width="13">
 
-<a href="https://drive.google.com/file/d/16m95a1q--m7L4OXKJOtYeuYUZCi9KWCl/view?usp=sharing"><img src="https://img.shields.io/badge/-Download-2ea44f?style=for-the-badge" alt="Nj"></a>
+<a href="https://drive.google.com/file/d/1lMWHZm-4tVLd-B7rI-tNTdVPDAuarvmK/view?usp=sharing"><img src="https://img.shields.io/badge/-Download-2ea44f?style=for-the-badge" alt="Nj"></a>
 </div>
 
 # Features
