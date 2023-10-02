@@ -30,6 +30,4 @@
 <br>
 
 ## Кредиты ПО
-<div>Разработчик - Гинджи (aka ginji fox).
-<br>
-<img src="src/ds.png", width="28", align="center", vertical-align="center"> g.i.n.j.i</div>
+<div>Разработчик - Гинджи (aka ginji fox).<img src="src/ds.png", width="28", align="center", vertical-align="center"> g.i.n.j.i</div>
