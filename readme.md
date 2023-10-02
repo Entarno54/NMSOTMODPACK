@@ -17,7 +17,7 @@
 <div align="center">
 <i>Download section</i> <img src="src/dwnld.png", width="13">
 
-<a href="https://github.com/Entarno54/NMSOTMODPACK/Download"><img src="https://img.shields.io/badge/-Download-2ea44f?style=for-the-badge" alt="Nj"></a>
+<a href="https://drive.google.com/drive/folders/1JdwUOje2rw0i8o-4RoaqoHaeQkgrrgJ6"><img src="https://img.shields.io/badge/-Download-2ea44f?style=for-the-badge" alt="Nj"></a>
 </div>
 
 # Features
