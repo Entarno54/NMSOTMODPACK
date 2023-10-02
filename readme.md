@@ -20,7 +20,7 @@
 <a href="https://drive.google.com/file/d/1lMWHZm-4tVLd-B7rI-tNTdVPDAuarvmK/view?usp=sharing"><img src="https://img.shields.io/badge/-Скачать-2ea44f?style=for-the-badge" alt="Да"></a>
 </div>
 
-# Возможномти
+# Возможности
 
 - просто дизайн
 - быстрая и польностью автоматическая загрузка модов
@@ -30,4 +30,5 @@
 <br>
 
 ## Кредиты ПО
-<div>Разработчик - Гинджи (aka ginji fox).<img src="src/ds.png", width="28", align="center", vertical-align="center"> g.i.n.j.i</div>
+<div>Разработчик - Гинджи (aka ginji fox).</div>
+<i>g.i.n.j.i</i><img src="src/ds.png", width="28", align="center", vertical-align="center">
