@@ -17,7 +17,7 @@
 <div align="center">
 <i>Секция загрузки</i> <img src="src/dwnld.png", width="13">
 
-<a href="https://drive.google.com/file/d/1lMWHZm-4tVLd-B7rI-tNTdVPDAuarvmK/view?usp=sharing"><img src="https://img.shields.io/badge/-Скачать-2ea44f?style=for-the-badge" alt="Да"></a>
+<a href="https://drive.google.com/file/d/1lMWHZm-4tVLd-B7rI-tNTdVPDAuarvmK/view?usp=sharing"><img src="https://img.shields.io/badge/-Скачать-2ea44f?style=for-the-badge"></a>
 </div>
 
 # Возможности
